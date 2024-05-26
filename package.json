@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@types/seedrandom": "^3.0.8",
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "python-shell": "^5.0.0",
+    "react-webcam": "^7.2.0",
+    "seedrandom": "^3.0.5"
+  }
+}
